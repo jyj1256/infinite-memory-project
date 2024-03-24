@@ -1,0 +1,7 @@
+{
+  "message": "GPT3 error: \n\nYou tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+  "speaker": "RAVEN",
+  "time": 1708935682.4849787,
+  "timestring": "Monday, February 26, 2024 at 05:21PM ",
+  "uuid": "eeeb4b8f-f9cc-474d-aa6e-969c1da465b5"
+}

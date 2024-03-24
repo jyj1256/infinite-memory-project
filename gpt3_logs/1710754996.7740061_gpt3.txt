@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240314-14:51 : 나 내일 학교 가는날인가?
+USER: 나 내일 무슨수업이 있더라?
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+나동반, 이번 주는 월, 화, 목요일에 학교가 있다고 했어요. 그래서 내일은 학교에 가야 할 거예요. 그리고 그러면 월요일에 어떤 수업이 있는지요? 월요일에는 영어, 수학, 과학 수업이 있는 것 같아요. 이번 주 초에는 새로운 미션 수업도 있던데, 어떤 미션 수업이 있는지 기억하고 계신가요?

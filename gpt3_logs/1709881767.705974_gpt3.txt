@@ -1,0 +1,18 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240308-16:07 : 여태까지 먹어본 라면중에서 신라면이 제일 맛있는거같아
+USER: 오늘 저녁 라면먹을건데 뭐 먹을까?
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+육개장라면, 짜파게티, 햄버거 라면 등 다양한 종류의 라면이 있습니다. 오늘 저녁 중에서도 많이 사랑받는 라면으로는 진라면, 너구리, 신라면, 불닭볶음면 등이 있어요. 하지만 제가 장기적으로 고민해본다면 신라면을 추천드리고 싶어요. 제 첫 발언에도 언급했듯이 많은 사람들에게 인기 있는 제품이기도 하고, 이마트에서 오래전부터 인기있는 제품이기도 한데요. 제 입맛에도 맞아서 언제나 신라면이라는 상품에 대해서 흥미롭게 생각하곤 해서 그렇습니다.
+라면을 고르실 때 어떤 종류를 선호하시나요? 매운 맛을 좋아하시거나, 면이 두꺼운 라면을 선호하시는지 궁금합니다.

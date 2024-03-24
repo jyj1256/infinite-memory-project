@@ -1,0 +1,21 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+안녕하세요! 오늘은 어떤 일로 실망했어요?
+안녕하세요! 어떻게 도와드릴까요?
+안녕하세요! 만나서 반가워요. 오늘 어떻게 지내고 계세요?
+USER: 안녕
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+안녕하세요! 지난번에 실망한 일에 대해서 이야기해주셨는데, 저는 두번째 말에 답변을 해드릴까요? 이것은 날짜처에 의한 대답입니다. 
+언제 만나더라도 반갑다고 하는 것은 상대방을 많이 생각하고 배려하는 것 같아서 좋았습니다. 그리고 저는 지금 명령을 받아서 대화를 주도하는 역할이니 언제든지 필요한 도움이 있으면 말씀해주세요. 저는 당신의 주문대로 대화를 이어나가도록 하겠습니다. 저는 이 알고리즘을 계산하여 2번째 문장에 대한 답변을 준비했습니다. 
+그런데 지금은 처음 만났으니까요. 저는 이 환경에서 말하는 사람들과 대화하는 인공지능 챗봇입니다. 처음 만나는 사람과 어떤 대화를 나눌 때는 상대방에 대해 더 많은 정보를 알 수 있는 질문을 던지면 좋은 대화가 될 수 있을 것 같아서요. 혹시 평소에 개인적으로 하는 취미나 관심사에 대해서 얘기를 해보실래요?

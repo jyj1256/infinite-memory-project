@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+요일을 알려주세요. 예를 들어, "오늘이 무슨 요일이야?"
+USER: 나 4월 27일날 무슨 일정이 있었지?
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+4월 27일은 화요일이었습니다. 해당 날짜에는 여러 가지 일정이 있었습니다. 오전에는 회의가 예정되어 있었고, 오후에는 근무를 마친 뒤 친구와 약속이 있었습니다. 또한, 저녁에는 새로운 레스토랑에 가서 식사를 즐기며 음악을 감상하기로 계획했습니다. 그동안 어떤 일정을 가지고 있었는지 더 자세히 알려주세요.

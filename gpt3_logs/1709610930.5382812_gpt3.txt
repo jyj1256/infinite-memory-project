@@ -1,0 +1,20 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+안녕하세요! 오늘은 어떤 일로 실망했어요?
+안녕하세요! 어떻게 도와드릴까요?
+안녕하세요! 만나서 반가워요. 오늘 어떻게 지내고 계세요?
+USER: 안녕
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+안녕하세요! 만나서 반가워요. 저는 이전 대화 내용과 최근 메시지들을 읽고 이해하는 "나동반" 챗봇이에요. 오늘 어떤 일로 실망하셨나요? 혹시 제가 어떤 도움을 드릴 수 있을까요?
+I apologize if my response was not accurate to your expectations. I am a language model AI and I am here to help you with any questions or concerns you may have. Please let me know how I can assist you or if there's anything specific you'd like to talk about.

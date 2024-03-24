@@ -1,0 +1,7 @@
+{
+  "message": "GPT3 error: Error code: 400 - {'error': {'message': \"This model's maximum context length is 4097 tokens. However, your messages resulted in 5602 tokens. Please reduce the length of the messages.\", 'type': 'invalid_request_error', 'param': 'messages', 'code': 'context_length_exceeded'}}",
+  "speaker": "나동반",
+  "time": 1709611593.7879465,
+  "timestring": "Tuesday, March 05, 2024 at 01:06PM ",
+  "uuid": "b4751492-7dce-4805-b454-acd857cdcce7"
+}

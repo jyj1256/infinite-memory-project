@@ -1,0 +1,7 @@
+{
+  "message": "GPT3 error: Missing required arguments; Expected either ('messages' and 'model') or ('messages', 'model' and 'stream') arguments to be given",
+  "speaker": "RAVEN",
+  "time": 1708936000.1214917,
+  "timestring": "Monday, February 26, 2024 at 05:26PM ",
+  "uuid": "d73dd2b5-5a0b-4084-8ece-a18260a082e1"
+}

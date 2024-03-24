@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240314-14:54 : 나 내일 모래에 친구 결혼식에 가
+USER: 친구 결혼식이 언제였더라?
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+친구 결혼식은 내일 모레에 진행됩니다. 이전 대화에서 내일 모래에 친구의 결혼식에 참석한다고 하셨는데요. 그렇다면, 준비물이나 드레스 코드 같은 부분을 고민하고 계실지 궁금합니다. 결혼식에 어울리는 복장으로 어떤 스타일이 좋을지 고민하고 계신다면, 저희가 도움을 드릴 수 있을 것 같아요. 드레스 스타일, 색상 또는 액세서리 등에 고민이 있으신가요?

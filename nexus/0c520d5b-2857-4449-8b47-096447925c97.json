@@ -1,0 +1,7 @@
+{
+  "message": "GPT3 error: This is a chat model and not supported in the v1/completions endpoint. Did you mean to use v1/chat/completions?",
+  "speaker": "RAVEN",
+  "time": 1708935722.1598728,
+  "timestring": "Monday, February 26, 2024 at 05:22PM ",
+  "uuid": "0c520d5b-2857-4449-8b47-096447925c97"
+}

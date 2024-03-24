@@ -1,0 +1,18 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240308-17:35 : 나 장보러가서 뭐기로 했지?
+USER: 나 장보러 가서 뭐 하기로 했지?
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+당신은 장보러 가서 뭘 할지에 대해 저에게 묻으셨군요.에 대답드렸어요. 하지만, 두 번째 문장에서 "뭐 하기로 했지?"라고 물으셨어요. 
+우린 조금 혼동이 있을 수도 있지만, 귀하가 장 보러 가는 조건에 대해 좀 더 자세히 설명해 주실 수 있을까요? 제가 도와드릴 수 있는 다른 것이 있나요?

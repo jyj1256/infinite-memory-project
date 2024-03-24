@@ -1,0 +1,19 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages, and then I will provide a long, verbose, detailed answer. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+안녕하세요! 오늘은 어떤 일로 실망했어요?
+안녕하세요! 만나서 반가워요. 오늘 어떻게 지내고 계세요?
+안녕하세요! 오늘은 어떤 일로 찾아오셨나요?
+USER: 모래 누구랑 어디 가기로 했지?
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+앞서 언급하신 말씀에 따르면, 모래라는 키워드가 나왔고 그리고 어디 가는지에 관한 언급이 있습니다. 그런데 제가 이전 대화에 대한 전제를 알지 못하기에 정확한 대답을 드리기 어렵습니다. 하지만 일반적인 대답을 제시해드릴게요. 가능성 중 하나로는 모래란 사람과 미리 어디에서 만날지 계획한 것 같습니다. 혹은 어디를 방문할지 도청자분이 잊어버리셨을 수도 있습니다. 그렇다면, 이런 경우에는 대화 상대에게 물어보는 것이 좋을 것 같습니다. 예를 들어 "모래랑 어디로 갈 예정이죠?" 또는 "모래랑 어디로 만날 예정이죠?"와 같은 질문을 하면 더 좋을 것 같습니다. 어떤 말들이 도움이 되셨는지 참고하여 다음에 질문을 진행해주시면 감사하겠습니다!

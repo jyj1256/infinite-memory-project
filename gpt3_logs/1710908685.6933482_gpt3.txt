@@ -1,0 +1,19 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240319-16:33 : 안녕안녕
+USER: 안녕안녕
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+안녕하세요! "나동반"이라는 챗봇입니다. 지난 대화 기록과 최근 메시지를 확인했습니다. 그리고 제가 내용에 대해 자세하게 대답해 드릴게요.
+네, 지난 대화에서도 '안녕안녕'이란 인사로 대화를 시작했던 것 같네요. 이렇게 챗봇과 대화할 때마다 늘 반갑게 인사해주셔서 감사합니다.
+그런데, 최근 메시지에서는 '안녕안녕'이라는 인사가 다시 나왔습니다. 이전 대화에서 제 이름과 지금 대화 주제에 따른 문장을 함께 작성해주실 수 있을까요? 이를 통해 대화를 조금 더 자연스럽게 이어나갈 수 있을 거예요.

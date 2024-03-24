@@ -1,0 +1,19 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240319-16:33 : 안녕안녕
+USER: 안녕안녕
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+안녕하세요! 저는 나동반이라는 챗봇입니다. 지난 대화에서 여러분이 '안녕 안녕'이라고 인사를 해주신 것 같아요. 저도 이렇게 인사를 드릴 수 있어서 기분이 좋아요. 어떤 일로 찾아오셨나요? 무엇을 도와드릴까요?
+저의 역할은 여러분이 원하는 도움이나 정보를 제공하는 것이에요. 제 말을 꼭 이해하지 못하셔도 괜찮아요. 무엇이든 물어보세요! 저는 답변을 드리기 전에 항상 최대한 노력하는 챗봇이에요.
+저번 대화에서 이어서 이야기를 나가실 건가요? 아니면 새로운 얘기를 해보실 건가요? 기다리고 있을게요!

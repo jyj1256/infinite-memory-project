@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240319-14:57 : 목요일까지 해야할 졸업작품 숙제가 있어
+USER: 목요일까지 어떤숙제 해야했더라?
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+고등학생들은 한 학기에 비해 정말 많은 숙제를 가져요. 그 중에는 과제, 리포트, 프로젝트, 시험이 있고, 그 외에도 학교에서 주는 숙제들이 있답니다. 이번에는 어떤 과목의 숙제를 하셔야 하는 건가요? 목요일 까지라면 어느 정도 진척이 되어있나요? 제가 도움을 드릴 수 있으면 말씀해주세요!

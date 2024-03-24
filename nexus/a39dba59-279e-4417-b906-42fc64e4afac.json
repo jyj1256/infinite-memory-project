@@ -1,0 +1,7 @@
+{
+  "message": "GPT3 error: Error code: 404 - {'error': {'message': 'This is not a chat model and thus not supported in the v1/chat/completions endpoint. Did you mean to use v1/completions?', 'type': 'invalid_request_error', 'param': 'model', 'code': None}}",
+  "speaker": "RAVEN",
+  "time": 1709559486.577875,
+  "timestring": "Monday, March 04, 2024 at 10:38PM ",
+  "uuid": "a39dba59-279e-4417-b906-42fc64e4afac"
+}

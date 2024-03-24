@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240308-17:29 : 오늘 내가 무슨말 했더라?
+USER: 이번엔 무슨노래 들을까?
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+오늘은 "이번에 무슨 노래 들을까?"라는 질문을 하셨어요. 제가 좋아하는 가수나 음악 스타일 같은 걸 좀 알려주시면 더 구체적으로 추천해드릴 수 있을 것 같아요. 혹시 특별히 좋아하는 가수나 장르, 노래의 분위기에 대해서 좀 알려주실 수 있을까요? 그러면 제가 좀 더 자세한 추천을 도와드릴 수 있어요!

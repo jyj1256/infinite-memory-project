@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Form</title>
+</head>
+<body>
+    <form action="/" method="POST">
+        <label for="inputText">나동반</label><br>
+        <p><textarea name = "text" placeholder="나동반에게 할말을 적어주세요"></textarea></p><br>
+        <input type="submit" value="Submit">
+    </form>
+    <div class="print"> 사용자 : {{text}} </div>
+    <div class="print"> 나동반 : {{output}} </div>
+</body>
+</html>
+
+

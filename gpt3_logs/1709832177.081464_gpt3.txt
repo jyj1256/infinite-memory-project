@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240308-00:59 :  오 이 자주색 코트 이쁘다 내일 인터넷으로 찾아봐야겠다.
+USER: 내가 이쁘다고한 코트 무슨색이었지?
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+당신이 이쁘다고 언급한 코트는 자주색 코트입니다. 자주색 코트는 독특한 색상으로, 당신의 스타일과 성격을 반영해줄 것 같아요. 자주색은 여러 가지 의미와 감정을 상징하는데요, 전통적으로는 독립심, 독창성, 상상력, 영감 등을 나타냅니다. 또한, 세련되고 고급스러운 분위기를 연출해줄 수 있는 컬러 중 하나이기도 해요. 그러므로, 자주색 코트를 선택하면 독특하면서도 트렌디한 룩을 연출할 수 있을 거예요. 그런데, 자주색 코트를 찾기 위해 인터넷을 찾아보는 건 어떠세요? 서로 어울리는 아이템을 찾아볼 수도 있을 거에요. 어울리는 컬러, 스타일 등을 고려해서 좋은 선택을 할 수 있을 거예요.

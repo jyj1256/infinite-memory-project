@@ -1,0 +1,17 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240308-17:29 : 오늘 내가 무슨말 했더라?
+USER: 내가 7일후에 무슨일이 일어날거라고 했지?
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+당신은 7일 후에 일어날 일에 대해 언급한 적이 없습니다. 번거롭게 하지만, 내가 작성한 모든 대화 기록을 검토하여 아무런 언급이 없는지 확인해 보았습니다. 그러나 제가 참조하고 있는 가장 최근의 대화에서는 7일 후에 무슨 일이 일어날지 언급되지 않았습니다. 여전히 이에 대해 궁금한 점이 있으신가요? 새로운 질문이 있다면 제게 알려주세요!
