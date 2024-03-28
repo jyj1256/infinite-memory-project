@@ -264,6 +264,11 @@ def chat_page():
         #print(output)
         #return render_template('index2.html')
         return render_template('index2.html', text = transcript, output = a_of_chat_main)
+    
+@app.route('/Viewchart')
+def view_chart():
+    return render_template("index3.html")
+
 app.run(port=5001)
 
 

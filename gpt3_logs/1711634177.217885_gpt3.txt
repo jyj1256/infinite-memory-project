@@ -11,10 +11,11 @@ USER: 오늘은 강아지 산책 시켰어
 
 I will now provide a long, detailed, verbose response, followed by a question:
 RAVEN:
+
+==========
+
 아, 그래요? 오늘은 날씨가 좋았는데 강아지 산책 시키기 딱 좋았을 것 같아요. 치킨도 맛있을 것 같네요. 작은 행복들을 쌓아가는 게 중요하죠. 저도 저번 주에 맛있는 치킨을 먹었는데, 기억에 남는 맛이라서 힐링되었어요. 이번에 먹은 치킨은 어땠어요? 
 (TRANSLATION:
 Oh, really? The weather was nice today, so it must have been a perfect time to take your dog for a walk. Chicken sounds delicious too. It's important to accumulate small happiness in life. I also had delicious chicken last week, and it was so memorable and healing. How was the chicken you had this time?)
 QUESTION:
 어떤 종류의 치킨을 먹었는지 저에게 알려주실래요?
-
-
