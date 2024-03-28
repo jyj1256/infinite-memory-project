@@ -10,6 +10,8 @@ from uuid import uuid4
 import datetime
 import pinecone
 from flask import Flask, render_template, request
+import speech_recognition as sr
+import pyaudio
 
 '''
 uuid 모듈은 Universally Unique IDentifier(범용 고유 식별자)를 생성하는데 사용됩니다.
@@ -222,6 +224,23 @@ def chat_main(a):
         content = prompt+'\n'+output+'\n\n\n'  #-> ex) 20240226-13:56 : 오 이 자주색 코트 이쁘다 내일 인터넷으로 찾아봐야겠다.  20240227-16:17 : 어제 내가 이쁘다고한 코트 무슨색이었지? \n 어제 자주색 코트가 이쁘다며 말씀하셨어요. \n\n\n
         save_list_file_for_finetuning(file_name, content)
     return output
+
+
+def audio_to_text():
+    recognizer = sr.Recognizer()
+    with sr.Microphone() as source:
+        print("오늘 하루 어땠는지 말씀해주세요.")
+        audio = recognizer.listen(source)
+        try:
+            # Google Web Speech API를 이용해 음성을 텍스트로 변환
+            text = recognizer.recognize_google(audio, language="ko-KR")
+            print("음성 인식 결과:", text)
+
+        except sr.UnknownValueError:
+            print("음성을 인식할 수 없습니다.")
+        except sr.RequestError as e:
+            print(f"음성 인식 서비스에 접근할 수 없습니다: {e}")
+    return text
   
 
 
@@ -233,15 +252,18 @@ app = Flask(__name__)
 @app.route('/',methods = ['GET','POST'])
 def chat_page():
     if request.method == 'GET':
-        return render_template('index2.html') 
+        return render_template('index2.html')
     elif request.method == 'POST':
-        text = request.form['text']
-        a_of_chat_main = chat_main(text)
+        data = request.get_json()
+        transcript = data['text']
+        print(transcript)              #음성인식 잘됨 확인
+        #text = request.form['text']   #이부분을 바꿔야함
+        a_of_chat_main = chat_main(transcript)
         print(a_of_chat_main)
         #output = str(text+'라고 말씀하셨군요!!!')
         #print(output)
         #return render_template('index2.html')
-        return render_template('index2.html', output = a_of_chat_main, text = text)
+        return render_template('index2.html', text = transcript, output = a_of_chat_main)
 app.run(port=5001)
 
 

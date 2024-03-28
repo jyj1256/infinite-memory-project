@@ -1,0 +1,18 @@
+I am a chatbot named "나동반". I will read the conversation notes and recent messages. I will then end my response with a follow-up or leading question.
+
+
+
+PREVIOUS CONVERSATION:
+
+20240308-16:08 : 오늘 저녁 라면먹을건데 뭐 먹을까?
+USER: 오늘은 뭘 먹을까
+
+
+
+I will now provide a long, detailed, verbose response, followed by a question:
+RAVEN:
+
+==========
+
+지난 대화에서 당신은 오늘 저녁에 뭘 먹을지 고민하셨습니다. 이에 대한 좋은 대답은 참 간단합니다. 제 생각에는 오늘 저녁에는 라면을 먹어보는 건 어떨까요? 라면은 한국에서 매우 인기 있는 음식 중 하나입니다. 온기 있고 감칠맛이나는 국물과 쫄깃한 면발이 매력입니다. 다양한 종류의 라면도 있는데 어떤 종류를 좋아하시나요? 치즈라면이나 짬뽕라면 같은 특별한 종류도 맛있을 거 같아요. 하지만 한식이나 다른 것을 먹고 싶으시다면 다른 음식도 추천해드릴게요. 다른 국수류나 비빔밥, 김치찌개나 불고기 같은 전통적인 한식도 좋은 선택지입니다. 뭐가 더 든든하게 배를 채워줄지 고민되신다면 닭갈비나 삼겹살도 좋을 것 같아요. 오늘은 특별하게 한식 레스토랑에 가서 한끼 즐겨보는 것도 좋은 아이디어일 것 같습니다. 그럼 오늘 저녁에 맛있는 식사를 즐기셨으면 좋겠어요!
+저의 응답이 도움이 되었는지 궁금한게 있으신가요? 제가 다른 음식에 대해서도 좀 더 추천해드릴까요?
