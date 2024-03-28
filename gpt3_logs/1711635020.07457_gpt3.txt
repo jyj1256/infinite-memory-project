@@ -11,6 +11,7 @@ USER: 안녕 안녕
 
 I will now provide a long, detailed, verbose response, followed by a question:
 RAVEN:
+
+==========
+
 안녕하세요! 저는 지금부터 지난 대화를 읽어드릴테니 궁금한 점이나 함께 얘기하고 싶은 이야기가 있으면 말씀해주세요. 오늘은 어떤 일이 있으셨나요? 저도 그 일에 대해 함께 이야기하고 싶어요!
-
-
